@@ -1,1 +1,2 @@
-web: bundle exec rackup
+web: bundle exec rackup config.ru -p ${PORT:-5000}
+
