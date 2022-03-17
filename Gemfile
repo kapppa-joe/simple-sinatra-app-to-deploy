@@ -9,3 +9,5 @@ gem "sinatra"
 gem 'capybara'
 
 gem "rspec_junit_formatter", "~> 0.5.1"
+
+gem "puma", "~> 5.6"
